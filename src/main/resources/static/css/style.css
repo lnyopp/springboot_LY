@@ -1,0 +1,22 @@
+body {
+  background: url("../images/stargazer.jpeg") no-repeat;
+  background-size: cover
+ 
+}          
+
+
+#about {
+  margin: 30px;
+  background-color: #911FC8;
+  border: 1px solid whitesmoke;
+  opacity: .6;
+  font-weight: bolder;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+}
+
+form {
+  display: block;
+}
+
+
